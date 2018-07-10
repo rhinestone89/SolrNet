@@ -1,5 +1,5 @@
 # Change Log
-
+test change
 ## 1.0.9
 - Added missing properties to SolrFacetFieldQuery
 
